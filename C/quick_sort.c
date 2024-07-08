@@ -50,7 +50,7 @@ void printArray(int arr[], int size) {
     printf("\n");
 }
 
-void quickSort()
+void main()
 {
     printf("Enter the size of the array\n");
     int n;
