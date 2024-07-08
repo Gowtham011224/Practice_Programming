@@ -23,7 +23,7 @@ void insert(int arr[],int n){
 }
 
 
-void insertionSort()
+void main()
 {
     int i,n;
     printf("Enter no of elements: " );
