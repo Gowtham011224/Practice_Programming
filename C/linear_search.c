@@ -1,5 +1,5 @@
 #include<stdio.h>
-void linearSearch()
+void main()
 {
 printf("Enter the size of the array\n");
 int n;
