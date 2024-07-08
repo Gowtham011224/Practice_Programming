@@ -56,7 +56,7 @@ void display(int arr[],int n)
     printf("\n");
 }
 
-void mergeSort()
+void main()
 {
     int n,i;
     printf("Enter no of elements: ");
